@@ -2,7 +2,8 @@
 
 SANTANDER DEV WEEK
 
-![image](https://user-images.githubusercontent.com/80496718/168933453-9a8bb8fb-946f-41be-814d-f6140acf136e.png)
+
+![Uploading image.png…]()                                ![image](https://user-images.githubusercontent.com/80496718/168933453-9a8bb8fb-946f-41be-814d-f6140acf136e.png)
 
 
 App Android de extrato bancário.
