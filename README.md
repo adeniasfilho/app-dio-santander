@@ -4,7 +4,8 @@ SANTANDER DEV WEEK
 
 
 
- die                   ![image](https://user-images.githubusercontent.com/80496718/168933453-9a8bb8fb-946f-41be-814d-f6140acf136e.png)
+ ![image](https://user-images.githubusercontent.com/80496718/168934652-eeba2ed3-3514-4799-9a5f-f2c24ecc2f59.png)
+                  ![image](https://user-images.githubusercontent.com/80496718/168933453-9a8bb8fb-946f-41be-814d-f6140acf136e.png)
 
 
 App Android de extrato bancário.
